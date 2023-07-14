@@ -2,8 +2,11 @@
 
 `docker run -ti spkane/starwars:latest`
 
-Quit:
+Using the code written by Gabe Cook.
+https://github.com/gabe565/ascii-movie
+
+Controls:
 ```
-CTRL-]
-q
+q quit • ←/h left • →/l right • enter choose
 ```
+
